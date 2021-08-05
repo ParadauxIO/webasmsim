@@ -1,19 +1,14 @@
 # webasmsim
 
-## Project setup
-```
-npm install
-```
+> This project is work in progress and not intended for use by anyone except for those interested in contributing. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This is a more modern version of OakSim, ported to vuejs and with added features based on codemirror
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Saving and Loading Projects to Firebase firestore
+- Syntax highlighting for Armasm
+- Proper tab/shift+tab support 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+and more to come 
+
+
+
