@@ -1,5 +1,12 @@
+# Intellij
+*.iml
+.idea/
+
+# OS
 .DS_Store
 node_modules
+
+# Build
 /dist
 
 
